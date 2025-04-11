@@ -51,3 +51,8 @@
   ```
   git push origin --delete tag <tag-name>
   ```
+
+* Bonus Task
+  * I added the `rebase.svg` and a screenshot of vs code.
+![screenshot](Screenshot-2025-04-11-221846.png)
+  
